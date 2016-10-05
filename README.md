@@ -1,0 +1,2 @@
+# gdinojAcmTemplate
+用于存储GdinojAcmIcpc模板的代码仓库，希望可以一代一代地传承下去
